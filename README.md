@@ -12,8 +12,11 @@ The script does not control the scope and uses global variables.
 
 **Created**: 2012-05-02
 
-**Last Modified**: 201#-##-##
+**Last Modified**: 2013-12-17
 
+### Contents
+* **footer-align.js** -- Source Code
+* **fa.js** -- Minified Javascript
 
 Upcoming Features to be Implemented
 -----------------------------------
